@@ -100,7 +100,7 @@ Grade level reading score updated:
  
  ![scores_by_school_type.png](./Snapshots/scores_by_school_type.png)
 
-##Summary
+## Summary
 
   After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs following changes have been observed in updated school district
   analysis:
