@@ -55,7 +55,7 @@ District level updated summary:
 
 Thomas school updated metrics(including 9th grade students) :
 
-![thomas_school_summary_all_students](./Snapshots/thomas_school_summary_all_students.png)
+![Thomas_school_summary_all_students](./Snapshots/Thomas_school_summary_all_students.png)
 
 Thomas school metrics (including only 10th to 12th grade students) :
 
